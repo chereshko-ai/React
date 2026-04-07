@@ -4,6 +4,7 @@
 /node_modules
 /.pnp
 .pnp.js
+/react-tic-tac-toe
 
 # testing
 /coverage
