@@ -32,7 +32,7 @@ const Cell = ({ id, cell, go, setGo, cells, setCells, winningMessage }) => {
 
     return (
         <div className="square" id={id} onClick={handleClick}>
-            <div>{cell}</div>
+            <div></div>
         </div>
     )
 }
